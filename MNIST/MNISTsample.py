@@ -3,6 +3,8 @@ import numpy as np
 import time
 from sklearn.neural_network import MLPClassifier
 
+'''GRADIENT DESCENT YAY'''
+
 # GET DATA
 
 ''' MNIST database taken from http://yann.lecun.com/exdb/mnist.
